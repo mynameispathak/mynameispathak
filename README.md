@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Problems of Students in the era of COVID-19 | Fee Relaxation | Financial Crisis | FeesKamKarona](https://www.youtube.com/watch?v=RfZoqRoWp1U)
+- [How to add default snippet code in Dev C++ || Auto Complete  common code in each program of Dev c++.](https://www.youtube.com/watch?v=rLKOYqkY3go)
+- [LeetCode 206: Reversing a Linked List | Sliding Pointers Approach | Data Structures](https://www.youtube.com/watch?v=uDe4NlUH1FA)
+- [Hands-On Time series forecasting with Python  || Wind Energy Forecast || ARIMA || ACF | PACF | ADF](https://www.youtube.com/watch?v=CH7EQ4TWbHk)
+- [Forecast of Total Corona cases in India on Google Colab | Covid-19 Prediction | Machine Learning](https://www.youtube.com/watch?v=JwynE-3tCXY)
 <!-- YOUTUBE:END -->
 
 ---
