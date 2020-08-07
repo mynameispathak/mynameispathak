@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
 <img align="left" alt="mynameispathak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mynameispathak&show_icons=true&hide_border=true" />
 
 [website]: https://aniketpathak.live
