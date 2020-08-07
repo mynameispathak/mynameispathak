@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Initial### Hi there, I'm Aniket Pathak - aka [mynameispathak][website] 👋
+### Hi there, I'm Aniket Pathak - aka [mynameispathak][website] 👋
 
 ## I'm a Final Year Student at NIT Delhi, an Aspiring Developer, and YT Creater!
 - 🔭 I’m currently working on Deep Learning Projects and DSA.
