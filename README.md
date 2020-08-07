@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and solve Rubik's Cube
+- ⚡ Fun fact: I love to read Novels and solve Rubik's Cube
 
 ### Connect with me:
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="mynameispathak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mynameispathak&show_icons=true&hide_border=true&hide=prs,issues,contribs" />
+<img align="left" alt="mynameispathak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mynameispathak&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=radical" />
 
 [website]: https://aniketpathak.live
 [twitter]: https://twitter.com/pathaktheking
