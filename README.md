@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Automatically Connect Your Online Class on Google Meet  || #For Sleepy Engineers Only ||](https://www.youtube.com/watch?v=c24XESMw704)
+- [Auto Join Your Online Classs on Google Meet | For Sleepy Engineers Only | Uninterrupted Sleep](https://www.youtube.com/watch?v=c24XESMw704)
 - [Problems of Students in the era of COVID-19 | Fee Relaxation | Financial Crisis | FeesKamKarona](https://www.youtube.com/watch?v=RfZoqRoWp1U)
 - [How to add default snippet code in Dev C++ | Auto Complete common code in each program of Dev c++.](https://www.youtube.com/watch?v=rLKOYqkY3go)
 - [LeetCode 206: Reversing a Linked List | Sliding Pointers Approach | Data Structures](https://www.youtube.com/watch?v=uDe4NlUH1FA)
