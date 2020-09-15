@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Aniket Pathak - aka [mynameispathak][website] 👋
 
 ## I'm a Final Year Student at NIT Delhi, an Aspiring Developer, and YT Creater!
-- 🔭 I’m currently working on Deep Learning Projects and DSA.
+- 🔭 I’m currently working on Backend Web Development, Deep Learning Projects and DSA.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
