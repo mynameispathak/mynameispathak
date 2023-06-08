@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="mynameispathak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mynameispathak&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=algolia" />
+<img align="left" alt="mynameispathak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mynameispathak&show_icons=true&hide_border=true&hide=issues,contribs&theme=algolia" />
 
 [website]: https://mynameispathak.github.io
 [twitter]: https://twitter.com/pathaktheking
