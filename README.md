@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Aniket Pathak - aka [mynameispathak][website] 👋
 
-## I'm a Software Developer, and YT Creater!
-- 🔭 I’m currently working on Backend Web Development, Deep Learning Projects and DSA.
+## I'm a Software Developer specializing in DevOps and Backend Engineering!
+- 🔭 I’m currently working on DevOps, Backend Development, Deep Learning Projects and DSA.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with developers
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels and solve Rubik's Cube
 
 ### Connect with me:
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
